@@ -105,7 +105,7 @@ function startCountdown() {
     if (timeremaining == 0) {
       // game over
       stopCountdown();
-      show("game-over");
+      show("gameOver");
       document.getElementById("gameOver").innerHTML =
         "<p>Game over!</p><p>Your score is " + score + ".</p>";
       hide("time-remaining");
