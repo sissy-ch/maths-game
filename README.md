@@ -14,15 +14,6 @@ A simple web-based mathematics game where users can practice basic arithmetic op
 
 ## Features
 
-- Practice basic arithmetic operations (Addition, Subtraction, Multiplication, Divisionfeatures)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [License](#license)
-
-## Features
-
 - Practice basic arithmetic operations (Addition, Subtraction, Multiplication, Division).
 - Simple and user-friendly interface suitable for all ages.
 - Score tracking with real-time feedback:
@@ -39,7 +30,9 @@ https://maths-game.sissy-chen.host20.uk/
 ## Screenshots
 
 ![choose operation](image.png)
+
 ![game](image-1.png)
+
 ![wrong](image-2.png)
 
 ## Installation
